@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/tyba_provider/BuildConfig.java
+ com.example.tyba_provider.BuildConfig

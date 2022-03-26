@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">218708598842-6cbmvp10thmh642fanp4v72dcdeehg4g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">218708598842</string>
+    <string name="google_api_key" translatable="false">AIzaSyBiF7zcpaIaE9xNmdOir2RbDW-QefENLrg</string>
+    <string name="google_app_id" translatable="false">1:218708598842:android:cb4b0e8584f5a0358f5503</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBiF7zcpaIaE9xNmdOir2RbDW-QefENLrg</string>
+    <string name="google_storage_bucket" translatable="false">tyba-c9f95.appspot.com</string>
+    <string name="project_id" translatable="false">tyba-c9f95</string>
+</resources>
