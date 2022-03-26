@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/luishernandez/Documents/study/flutter-study/tyba_provider/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "outputFile": "/home/luishernandez/Documents/test/restaurants_test/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
                     "source": "/home/luishernandez/.gradle/caches/transforms-2/files-2.1/875654acb8fd75501dc33efa1bebb479/core-1.6.0/res/values-as/values-as.xml",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/luishernandez/Documents/study/flutter-study/tyba_provider/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/luishernandez/Documents/test/restaurants_test/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/luishernandez/Documents/study/flutter-study/tyba_provider/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/luishernandez/Documents/test/restaurants_test/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

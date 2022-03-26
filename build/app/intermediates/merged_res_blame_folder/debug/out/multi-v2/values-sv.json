@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/luishernandez/Documents/study/flutter-study/tyba_provider/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "/home/luishernandez/Documents/test/restaurants_test/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/home/luishernandez/.gradle/caches/transforms-2/files-2.1/f3d1e61e48a3c4c2b9f4d2ffc401af39/jetified-play-services-base-17.1.0/res/values-sv/values.xml",
