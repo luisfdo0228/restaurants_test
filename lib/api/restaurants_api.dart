@@ -16,7 +16,7 @@ class Restaurant {
 
 class RestaurantApi {
   static Future<List<Restaurant>> getNameCitys(String query) async {
-    final url = Uri.parse('https://jsonplaceholder.typicode.com/users');
+    final url = Uri.parse('https://my-json-server.typicode.com/luisfdo0228/restaurants/restaurants');
     final response = await http.get(url);
 
     if (response.statusCode == 200) {
